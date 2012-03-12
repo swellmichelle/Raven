@@ -2,6 +2,15 @@ a:link {color:#000000;}
 a:visited {color:#990B0B;}
 a:hover {color:#6E6E6E;}
 
+p.first {color:#8C0707;}
+p.second {color:#7D0707;}
+p.third {color:#6E0707;}
+p.fourth {color:#660707;}
+p.fifth {color:#570707;}
+p.sixth {color:#400707;}
+
+p#id1 {text-transform: uppercase;}
+
 body {
   background-color:#D6D2D2;
   font-family:'courier new';
@@ -11,7 +20,6 @@ body {
 h1 {
   font-family:'courier new';
   color:#990B0B;
-  font-size:20px;
   text-align:center
 }
 
