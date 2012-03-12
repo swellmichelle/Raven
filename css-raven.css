@@ -10,6 +10,8 @@ p.fifth {color:#570707;}
 p.sixth {color:#400707;}
 
 p#id1 {text-transform: uppercase;}
+p#id2 {text-transform: uppercase;}
+p#id3 {text-transform: uppercase;}
 
 body {
   background-color:#D6D2D2;
