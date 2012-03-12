@@ -1,0 +1,17 @@
+a:link {color:#000000;} 
+a:visited {color:#990B0B;}
+a:hover {color:#6E6E6E;}
+
+body {
+  background-color:#D6D2D2;
+  font-family:'courier new';
+  color:#990B0B; text-align:center
+}
+
+h1 {
+  font-family:'courier new';
+  color:#990B0B;
+  font-size:20px;
+  text-align:center
+}
+
